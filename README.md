@@ -80,8 +80,8 @@ We implement the following classifiers:
 ## Results
 
 The accuracy of each classifier is as follows:
-
--**Logistics Regression :  81.34
+Logistic Regression: xx.xx%
+- **Logistics Regression :  81.34
 -**Support Vector       :  82.09
 -**Decision Tree        :  79.1
 -**K-NN Classifier      :  80.97
